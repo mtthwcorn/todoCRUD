@@ -1,7 +1,5 @@
 # Basic CRUD To Do App
 
----
-
 This is a simple to do list app using Firebase Authentication and Database Storage to authenticate and store users.
 
 Users can:
